@@ -1,0 +1,34 @@
+#s{
+border-radius: 30px;
+color:aqua;
+border-color: aqua;
+background-color: #faebd7;
+margin-top: 100px;
+margin-bottom:20px ;
+margin-left: 100px;
+margin-right:100px ;
+
+
+}
+#p{
+    border-radius: 30px;
+    color:white;
+   
+    background-color:aqua;
+    margin-top: 20x;
+margin-bottom:20px ;
+margin-left: 100px;
+margin-right:100px ;
+
+}
+#c{
+    border-radius:0%;
+    color:white;
+    border-color:black;
+    background-color:blue;
+    margin-top: 20px;
+    margin-bottom:20px ;
+    margin-left: 100px;
+    margin-right:100px ;
+    
+}
